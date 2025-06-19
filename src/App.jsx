@@ -44,7 +44,7 @@ function App() {
         backgroundPosition: "center center",
       }}
     >
-      {/* Sticky Navbar */}
+      {/* Sticky Navba */}
       <div className="bg-[#1877F2] text-white shadow-md py-3 px-6 sticky top-0 z-50">
         <Navbar />
       </div>
